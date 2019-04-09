@@ -1,0 +1,29 @@
+body {
+    background-color: gainsboro;
+}
+
+#canvas {
+    background-color: cadetblue;
+    height: 600px;
+    width: 600px;
+    margin-top: 15px;
+    margin-left: 75px;
+    position: relative;
+}
+
+.shape-creation {
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.shape {
+    position: absolute;
+}
+
+button {
+    vertical-align: left;
+}
+
+.circle {
+    border-radius: 50%;
+}
